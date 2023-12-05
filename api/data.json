@@ -1,19 +1,27 @@
 [
 	{
-		"title": "First test",
+		"title": "Dongkhamxay College (UAT)",
 		"projects": [
 			{
-				"title": "first test 1",
-				"url": "https://github.com/"
+				"title": "Admin",
+				"url": "https://off-uat.slms-afa.edu.la"
+			},
+			{
+				"title": "Teacher",
+				"url": "https://tea-uat.slms-afa.edu.la"
+			},
+			{
+				"title": "Student",
+				"url": "https://stu-uat.slms-afa.edu.la"
 			}
 		]
 	},
 	{
-		"title": "First test",
+		"title": "Dongkhamxay College (PRO)",
 		"projects": [
 			{
-				"title": "first test 1",
-				"url": "https://github.com/"
+				"title": "Teacher's Assessment",
+				"url": "https://sar.slms-afa.edu.la"
 			}
 		]
 	}
