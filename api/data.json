@@ -1,26 +1,26 @@
 [
 	{
-		"title": "Dongkhamxay College (UAT)",
+		"title": "ວິທະຍາໄລດົງຄຳຊ້າງ (UAT)",
 		"projects": [
 			{
-				"title": "Admin",
+				"title": "ລະບົບນັກຫລັງບ້ານ",
 				"url": "https://off-uat.slms-afa.edu.la"
 			},
 			{
-				"title": "Teacher",
+				"title": "ລະບົບນັກອາຈານ",
 				"url": "https://tea-uat.slms-afa.edu.la"
 			},
 			{
-				"title": "Student",
+				"title": "ລະບົບນັກສຶກສາ",
 				"url": "https://stu-uat.slms-afa.edu.la"
 			}
 		]
 	},
 	{
-		"title": "Dongkhamxay College (PRO)",
+		"title": "ວິທະຍາໄລດົງຄຳຊ້າງ (PRO)",
 		"projects": [
 			{
-				"title": "Teacher's Assessment",
+				"title": "ລະບົບປະເມີນອາຈານ",
 				"url": "https://sar.slms-afa.edu.la"
 			}
 		]
