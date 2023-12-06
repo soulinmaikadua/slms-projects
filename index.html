@@ -44,9 +44,7 @@
 				try {
 					// Fetch data from an API (replace with your API endpoint)
 					const response = await fetch('https://soulinmaikadua.github.io/slms-projects/api/data.json')
-					// console.log(response)
 					const data = await response.json()
-					// console.log(data)
 
 					// Process the data and generate an unordered list
 					const resultList = document.getElementById('resultList')
@@ -73,7 +71,6 @@
 
 						resultList.appendChild(listItem)
 					}
-					console.log('resultList')
 				} catch (error) {
 					console.error('Error fetching data:', error)
 				}
