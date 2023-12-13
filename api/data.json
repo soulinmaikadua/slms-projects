@@ -20,13 +20,27 @@
 		"title": "ວິທະຍາໄລດົງຄຳຊ້າງ (PRO)",
 		"projects": [
 			{
-				"title": "ລະບົບປະເມີນອາຈານ",
-				"url": "https://sar.slms-afa.edu.la"
-			},
-			{
 				"title": "ລະບົບ Office",
 				"url": "https://office.slms-afa.edu.la"
+			},
+			{
+				"title": "ລະບົບອາຈານ",
+				"url": "https://teacher.slms-afa.edu.la"
+			},
+			{
+				"title": "ລະບົບນັກສຶກສາ",
+				"url": "https://student.slms-afa.edu.la/"
+			},
+			{
+				"title": "ລະບົບຫ້ອງສະຫມຸດ",
+				"url": "https://library.slms-afa.edu.la/"
+			},
+			{
+				"title": "ລະບົບປະເມີນອາຈານ",
+				"url": "https://sar.slms-afa.edu.la"
 			}
+			
+			
 		]
 	}
 ]
